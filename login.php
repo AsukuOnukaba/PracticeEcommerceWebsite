@@ -1,6 +1,6 @@
 <?php
 include 'database/config.php';
- $conn = mysqli_connect('localhost','root','','database') or die('connection failed');
+$conn = mysqli_connect('$host','$user','$password','$database') or die('connection failed');
 session_start();
 
 if(isset($_POST['submit'])){

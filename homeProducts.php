@@ -32,8 +32,6 @@ if (isset($_POST['news'])) {
     header('location:index.php');
 
 }
-
-
 ?>
 
 <style>

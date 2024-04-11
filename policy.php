@@ -1,17 +1,17 @@
 <h2>Privacy Policy</h2>
-<p>kith and charm website is owned by kithandcharm, which is a data controller of your personal data.
+<p>Ecommerce Company website is owned by , which is a data controller of your personal data.
 </p>
-We have adopted this Privacy Policy, which determines how we are processing the information collected by kithandcharm, which also provides the reasons why we must collect certain personal data about you. Therefore, you must read this Privacy Policy before using kithandcharm website.
+We have adopted this Privacy Policy, which determines how we are processing the information collected by , which also provides the reasons why we must collect certain personal data about you. Therefore, you must read this Privacy Policy before using  website.
 We take care of your personal data and undertake to guarantee its confidentiality and security.
 
 <h3>Personal information we collect:</h3>
-When you visit the kithandcharm, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the installed cookies on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products you view, what websites or search terms referred you to the Site, and how you interact with the Site. We refer to this automatically-collected information as “Device Information.” Moreover, we might collect the personal data you provide to us (including but not limited to Name, Surname, Address, payment information, etc.) during registration to be able to fulfill the agreement.
+When you visit the , we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the installed cookies on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products you view, what websites or search terms referred you to the Site, and how you interact with the Site. We refer to this automatically-collected information as “Device Information.” Moreover, we might collect the personal data you provide to us (including but not limited to Name, Surname, Address, payment information, etc.) during registration to be able to fulfill the agreement.
 
 <h3>Why do we process your data?</h3>
 <p>Our top priority is customer data security, and, as such, we may process only minimal user data, only as much as it is absolutely necessary to maintain the website. Information collected automatically is used only to identify potential cases of abuse and establish statistical information regarding website usage. This statistical information is not otherwise aggregated in such a way that it would identify any particular user of the system.
 </p>
 
-<p>You can visit the website without telling us who you are or revealing any information, by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the website’s features, or you wish to receive our newsletter or provide other details by filling a form, you may provide personal data to us, such as your email, first name, last name, city of residence, organization, telephone number. You can choose not to provide us with your personal data, but then you may not be able to take advantage of some of the website’s features. For example, you won’t be able to receive our Newsletter or contact us directly from the website. Users who are uncertain about what information is mandatory are welcome to contact us via hello@kithandcharm.com.
+<p>You can visit the website without telling us who you are or revealing any information, by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the website’s features, or you wish to receive our newsletter or provide other details by filling a form, you may provide personal data to us, such as your email, first name, last name, city of residence, organization, telephone number. You can choose not to provide us with your personal data, but then you may not be able to take advantage of some of the website’s features. For example, you won’t be able to receive our Newsletter or contact us directly from the website. Users who are uncertain about what information is mandatory are welcome to contact us via hello@.com.
 </p>
 Your rights:
 
@@ -49,4 +49,4 @@ We will disclose any information we collect, use or receive if required or permi
 
 <h3>Contact information:
 </h3>
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to hello@kithandcharm.com. 
+If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to hello@.com. 

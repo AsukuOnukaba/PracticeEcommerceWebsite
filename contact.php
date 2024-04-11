@@ -81,15 +81,15 @@ if (isset($_POST['news'])) {
         <div>
 
                 <i class="fal fa-map"></i>
-                <p>no.126 democracy crescent, Gaduwa estate, Abuja</p>
+                <p></p>
 
                 <i class="far fa-envelope"></i>
-                <p>hello@kithandcharm.com</p>
+                <p>hello@.com</p>
 
         </div>
 
             <i class="fas fa-phone-alt"></i>
-            <p>+234 802 743 3480</p>
+            <p></p>
 
             <i class="far fa-clock"></i>
             <p>Monday to Sunday: 9.00am to 18.pm</p>

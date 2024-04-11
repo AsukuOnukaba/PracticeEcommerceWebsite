@@ -401,17 +401,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <div class="col">
         <img class="logo" src="Images/LOGO.jpg" alt="logo">
         <h4>Contact</h4>
-        <p><strong>Address:</strong> no.126 democracy crescent, Gaduwa estate, Abuja</p>
-        <p><strong>Phone:</strong> +234 802 743 3480 </p>
+        <p><strong>Address:</strong> </p>
+        <p><strong>Phone:</strong>  </p>
         <div class="follow">
             <h4>follow us</h4>
             <div class="icon">
-            <a href="https://instagram.com/kithandcharm?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+            <a href=""><i class="fab fa-instagram"></i></a>
             </div>
 
         </div>
         <div class="copyright" style="margin-left: -2.3em;">
-            <p>2022 Kith and Charm. All Rights Reserved </p>
+            <p>2022 Ecommerce Company. All Rights Reserved </p>
         </div>
     </div>
 

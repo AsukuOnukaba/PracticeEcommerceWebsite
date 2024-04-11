@@ -43,9 +43,6 @@ if (isset($_POST['news'])) {
         top: 1.65rem;
         right: 6.15rem;
     }
-
-    
-
 </style>
 <body>
 
@@ -78,7 +75,7 @@ if (isset($_POST['news'])) {
 </section>
 
 <div class="about" style="padding: 5em; padding-top: 2em; font-size:larger;">  
-<h3>Kith and Charm
+<h3>Ecommerce Company
 </h3>
 Kith & Charm is a one stop shop for your beauty, health and wellness needs. 
 <p style="color: black; font-size:large;">It is owned by licensed health professionals for total body and mind consultations and tailor made recommendations. Our prices are competitive and our services 
